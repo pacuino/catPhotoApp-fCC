@@ -1,6 +1,6 @@
-# Aplicacion de fotos de gatitos 
+# Cat Photo App
 
-Sitio web basico para iniciar en el aprendizaje de HTML5
+Learning <strong><em>HTML</em></strong> by Building a Cat Photo App
 
 ![catApp](https://github.com/pacuino/catPhotoApp-fCC/assets/45083782/89b95c83-75b3-4380-a711-75cdaaeda13f)
 
